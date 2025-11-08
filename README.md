@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0141-linked-list-cycle) |
+| [0203-remove-linked-list-elements](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0203-remove-linked-list-elements) |
 | [0908-middle-of-the-linked-list](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0908-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
@@ -17,4 +18,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0141-linked-list-cycle) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
