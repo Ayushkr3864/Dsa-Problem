@@ -3,18 +3,14 @@ class Solution {
           List<String> List = new ArrayList<>();
           Arrays.sort(words,(a,b)->a.length()-b.length());
           for (int i = 0; i < words.length; i++) {
-              String s = words[i];
+             
               int j = i+1;
               while (j<words.length) {
                 String match = words[j];
-                    if(j==i) {
-                        j++;
-                        continue;
-                    };
-                    if (match.contains(s)) {
-                        List.add(s);
-                        break;
-                    }
+                    if (words[j].contains(words[i])) {
+                    List.add(words[i]);
+                    break;
+                }
                     j++;
                 }
               }
