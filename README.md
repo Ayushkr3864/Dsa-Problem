@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0796-rotate-string) |
 | [1408-string-matching-in-an-array](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/1408-string-matching-in-an-array) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1668-maximum-repeating-substring](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/1668-maximum-repeating-substring) |
 ## String Matching
 |  |
 | ------- |
@@ -41,8 +42,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0796-rotate-string) |
 | [1408-string-matching-in-an-array](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/1408-string-matching-in-an-array) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1668-maximum-repeating-substring](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/1668-maximum-repeating-substring) |
 ## Array
 |  |
 | ------- |
 | [1408-string-matching-in-an-array](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/1408-string-matching-in-an-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1668-maximum-repeating-substring](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/1668-maximum-repeating-substring) |
 <!---LeetCode Topics End-->
