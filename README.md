@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0459-repeated-substring-pattern) |
+| [0686-repeated-string-match](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0796-rotate-string) |
 | [1408-string-matching-in-an-array](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/1408-string-matching-in-an-array) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0459-repeated-substring-pattern) |
+| [0686-repeated-string-match](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0796-rotate-string) |
 | [1408-string-matching-in-an-array](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/1408-string-matching-in-an-array) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
