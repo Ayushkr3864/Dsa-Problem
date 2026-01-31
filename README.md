@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1668-maximum-repeating-substring](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/1668-maximum-repeating-substring) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/2185-counting-words-with-a-given-prefix) |
+| [3029-minimum-time-to-revert-word-to-initial-state-i](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/3029-minimum-time-to-revert-word-to-initial-state-i) |
 ## String Matching
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1668-maximum-repeating-substring](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/1668-maximum-repeating-substring) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/2185-counting-words-with-a-given-prefix) |
+| [3029-minimum-time-to-revert-word-to-initial-state-i](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/3029-minimum-time-to-revert-word-to-initial-state-i) |
 ## Array
 |  |
 | ------- |
@@ -56,4 +58,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1668-maximum-repeating-substring](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/1668-maximum-repeating-substring) |
+## Rolling Hash
+|  |
+| ------- |
+| [3029-minimum-time-to-revert-word-to-initial-state-i](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/3029-minimum-time-to-revert-word-to-initial-state-i) |
+## Hash Function
+|  |
+| ------- |
+| [3029-minimum-time-to-revert-word-to-initial-state-i](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/3029-minimum-time-to-revert-word-to-initial-state-i) |
 <!---LeetCode Topics End-->
