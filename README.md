@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0141-linked-list-cycle) |
 | [0645-set-mismatch](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Recursion
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0088-merge-sorted-array) |
 | [0485-max-consecutive-ones](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1408-string-matching-in-an-array](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/1408-string-matching-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/1929-concatenation-of-array) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0088-merge-sorted-array) |
 | [0645-set-mismatch](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Simulation
 |  |
 | ------- |
@@ -122,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0645-set-mismatch) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
