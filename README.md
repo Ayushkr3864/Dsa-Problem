@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0075-sort-colors) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0136-single-number) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0084-largest-rectangle-in-histogram) |
 | [0234-palindrome-linked-list](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0496-next-greater-element-i) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0084-largest-rectangle-in-histogram) |
 | [0316-remove-duplicate-letters](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0503-next-greater-element-ii) |
