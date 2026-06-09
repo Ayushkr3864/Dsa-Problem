@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0287-find-the-duplicate-number) |
 | [0908-middle-of-the-linked-list](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0908-middle-of-the-linked-list) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0141-linked-list-cycle) |
 | [0187-repeated-dna-sequences](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0187-repeated-dna-sequences) |
+| [0202-happy-number](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0424-longest-repeating-character-replacement) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0263-ugly-number) |
 ## Sliding Window
 |  |
