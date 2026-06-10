@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0904-fruit-into-baskets) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2351-first-letter-to-appear-twice](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/2351-first-letter-to-appear-twice) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Recursion
 |  |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1668-maximum-repeating-substring](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/1668-maximum-repeating-substring) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2351-first-letter-to-appear-twice](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/2351-first-letter-to-appear-twice) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3029-minimum-time-to-revert-word-to-initial-state-i](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/3029-minimum-time-to-revert-word-to-initial-state-i) |
@@ -240,11 +242,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0645-set-mismatch) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [2351-first-letter-to-appear-twice](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/2351-first-letter-to-appear-twice) |
 ## Counting Sort
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0387-first-unique-character-in-a-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2351-first-letter-to-appear-twice](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/2351-first-letter-to-appear-twice) |
 ## Monotonic Stack
 |  |
 | ------- |
