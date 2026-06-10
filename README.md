@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0016-3sum-closest) |
 | [0035-search-insert-position](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0084-largest-rectangle-in-histogram) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0152-maximum-product-subarray) |
 | [0907-sum-of-subarray-minimums](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0907-sum-of-subarray-minimums) |
@@ -284,4 +286,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0387-first-unique-character-in-a-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
