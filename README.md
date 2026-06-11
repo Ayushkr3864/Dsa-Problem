@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1408-string-matching-in-an-array](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/1408-string-matching-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/1470-shuffle-the-array) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/1929-concatenation-of-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/2104-sum-of-subarray-ranges) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0907-sum-of-subarray-minimums) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1668-maximum-repeating-substring](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/1668-maximum-repeating-substring) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Rolling Hash
 |  |
