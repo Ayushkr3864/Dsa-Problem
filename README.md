@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0645-set-mismatch) |
 | [0713-subarray-product-less-than-k](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0735-asteroid-collision) |
 | [0904-fruit-into-baskets](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0907-sum-of-subarray-minimums) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/1004-max-consecutive-ones-iii) |
 ## Queue
 |  |
