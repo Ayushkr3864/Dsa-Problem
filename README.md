@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3029-minimum-time-to-revert-word-to-initial-state-i](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/3029-minimum-time-to-revert-word-to-initial-state-i) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/3474-lexicographically-smallest-generated-string) |
+| [3612-process-string-with-special-operations-i](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/3838-weighted-word-mapping) |
 ## String Matching
 |  |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2751-robot-collisions](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/2751-robot-collisions) |
+| [3612-process-string-with-special-operations-i](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/3838-weighted-word-mapping) |
 ## Stack
 |  |
