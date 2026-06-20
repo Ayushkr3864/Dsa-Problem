@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0904-fruit-into-baskets) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/2351-first-letter-to-appear-twice) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0918-maximum-sum-circular-subarray) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/1004-max-consecutive-ones-iii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/1004-max-consecutive-ones-iii) |
 | [1732-find-the-highest-altitude](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/1732-find-the-highest-altitude) |
 ## Queue
