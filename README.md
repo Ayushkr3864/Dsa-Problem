@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/2351-first-letter-to-appear-twice) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Recursion
 |  |
 | ------- |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2185-counting-words-with-a-given-prefix](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2751-robot-collisions](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/2751-robot-collisions) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3838-weighted-word-mapping](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/3838-weighted-word-mapping) |
 ## Dynamic Programming
 |  |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0594-longest-harmonious-subsequence) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/2351-first-letter-to-appear-twice) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -322,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/1004-max-consecutive-ones-iii) |
 | [1732-find-the-highest-altitude](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/1732-find-the-highest-altitude) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Queue
 |  |
 | ------- |
@@ -332,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0053-maximum-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0918-maximum-sum-circular-subarray) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -342,4 +347,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0175-combine-two-tables](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0177-nth-highest-salary) |
+## Segment Tree
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
