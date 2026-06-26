@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0076-minimum-window-substring) |
 | [0187-repeated-dna-sequences](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0187-repeated-dna-sequences) |
+| [0242-valid-anagram](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0316-remove-duplicate-letters) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0402-remove-k-digits) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0242-valid-anagram) |
 | [0594-longest-harmonious-subsequence](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0977-squares-of-a-sorted-array) |
