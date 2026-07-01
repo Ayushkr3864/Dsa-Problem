@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0287-find-the-duplicate-number) |
+| [0344-reverse-string](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0344-reverse-string) |
 | [0908-middle-of-the-linked-list](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0908-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0977-squares-of-a-sorted-array) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0316-remove-duplicate-letters) |
+| [0344-reverse-string](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0424-longest-repeating-character-replacement) |
