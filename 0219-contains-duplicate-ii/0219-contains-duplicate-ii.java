@@ -8,7 +8,7 @@ class Solution {
                     return true;
                 }
             }
-            map.put(nums[i],map.getOrDefault(nums[i],0)+i);
+            map.put(nums[i],i);
         }
         return false;
     }
