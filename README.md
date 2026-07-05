@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2351-first-letter-to-appear-twice](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/2351-first-letter-to-appear-twice) |
+| [2390-removing-stars-from-a-string](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/2390-removing-stars-from-a-string) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3029-minimum-time-to-revert-word-to-initial-state-i](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/3029-minimum-time-to-revert-word-to-initial-state-i) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0735-asteroid-collision) |
 | [1929-concatenation-of-array](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2390-removing-stars-from-a-string](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/2390-removing-stars-from-a-string) |
 | [2751-robot-collisions](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/2751-robot-collisions) |
 | [3612-process-string-with-special-operations-i](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/3614-process-string-with-special-operations-ii) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/2104-sum-of-subarray-ranges) |
+| [2390-removing-stars-from-a-string](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/2390-removing-stars-from-a-string) |
 | [2751-robot-collisions](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/2751-robot-collisions) |
 ## Bit Manipulation
 |  |
