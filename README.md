@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0908-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0977-squares-of-a-sorted-array) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0904-fruit-into-baskets) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0424-longest-repeating-character-replacement) |
 | [0459-repeated-substring-pattern](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0459-repeated-substring-pattern) |
+| [0567-permutation-in-string](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0567-permutation-in-string) |
 | [0686-repeated-string-match](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0796-rotate-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0594-longest-harmonious-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0904-fruit-into-baskets) |
