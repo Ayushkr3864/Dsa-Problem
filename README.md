@@ -307,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0402-remove-k-digits) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0232-implement-queue-using-stacks) |
 ## Matrix
 |  |
 | ------- |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0918-maximum-sum-circular-subarray) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
