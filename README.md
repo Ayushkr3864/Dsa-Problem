@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0203-remove-linked-list-elements) |
+| [0231-power-of-two](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0509-fibonacci-number) |
 ## String
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0263-ugly-number) |
 | [0509-fibonacci-number](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0628-maximum-product-of-three-numbers) |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0187-repeated-dna-sequences) |
+| [0231-power-of-two](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0645-set-mismatch) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
