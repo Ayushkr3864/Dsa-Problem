@@ -27,12 +27,12 @@ class Solution {
             curr = next;
         }
         ListNode start = head;
-        slow = prev;
-        while(slow!=null){
-            if(start.val!=slow.val){
+        ListNode end = prev;
+        while(end!=null){
+            if(start.val!=end.val){
                 return false;
             }
-            slow=slow.next;
+            end=end.next;
             start = start.next;
         }
         return true;
