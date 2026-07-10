@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1408-string-matching-in-an-array](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/1408-string-matching-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/1470-shuffle-the-array) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1672-richest-customer-wealth](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/1732-find-the-highest-altitude) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0907-sum-of-subarray-minimums) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2104-sum-of-subarray-ranges](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/2104-sum-of-subarray-ranges) |
 | [2390-removing-stars-from-a-string](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/2390-removing-stars-from-a-string) |
 | [2751-robot-collisions](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/2751-robot-collisions) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0907-sum-of-subarray-minimums) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2104-sum-of-subarray-ranges](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/2104-sum-of-subarray-ranges) |
 ## Greedy
 |  |
