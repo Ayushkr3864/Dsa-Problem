@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0645-set-mismatch) |
+| [0704-binary-search](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0735-asteroid-collision) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0287-find-the-duplicate-number) |
+| [0704-binary-search](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/1004-max-consecutive-ones-iii) |
 | [3620-network-recovery-pathways](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/3620-network-recovery-pathways) |
