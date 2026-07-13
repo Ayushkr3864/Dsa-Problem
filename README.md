@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0907-sum-of-subarray-minimums) |
+| [0912-sort-an-array](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0977-squares-of-a-sorted-array) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0645-set-mismatch) |
+| [0912-sort-an-array](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/1331-rank-transform-of-an-array) |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0387-first-unique-character-in-a-string) |
 | [0561-array-partition](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0594-longest-harmonious-subsequence) |
+| [0912-sort-an-array](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/1814-count-nice-pairs-in-an-array) |
@@ -427,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0053-maximum-subarray) |
+| [0912-sort-an-array](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0918-maximum-sum-circular-subarray) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Monotonic Queue
@@ -448,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0912-sort-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Graph Theory
 |  |
@@ -460,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0912-sort-an-array) |
 | [3620-network-recovery-pathways](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
@@ -496,4 +502,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0102-binary-tree-level-order-traversal) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
