@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0567-permutation-in-string) |
+| [0633-sum-of-square-numbers](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0633-sum-of-square-numbers) |
 | [0908-middle-of-the-linked-list](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0908-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0977-squares-of-a-sorted-array) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0287-find-the-duplicate-number) |
+| [0633-sum-of-square-numbers](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/1004-max-consecutive-ones-iii) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0263-ugly-number) |
 | [0509-fibonacci-number](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0628-maximum-product-of-three-numbers) |
+| [0633-sum-of-square-numbers](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0633-sum-of-square-numbers) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/1814-count-nice-pairs-in-an-array) |
