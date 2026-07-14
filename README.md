@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0567-permutation-in-string) |
 | [0686-repeated-string-match](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0796-rotate-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1408-string-matching-in-an-array](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/1408-string-matching-in-an-array) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0907-sum-of-subarray-minimums) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2104-sum-of-subarray-ranges](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/2104-sum-of-subarray-ranges) |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0402-remove-k-digits) |
 | [0561-array-partition](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0561-array-partition) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Design
 |  |
