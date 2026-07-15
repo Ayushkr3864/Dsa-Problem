@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0424-longest-repeating-character-replacement) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0242-valid-anagram) |
 | [0561-array-partition](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0594-longest-harmonious-subsequence) |
@@ -370,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0387-first-unique-character-in-a-string) |
 | [0561-array-partition](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/0594-longest-harmonious-subsequence) |
