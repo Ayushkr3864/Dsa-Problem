@@ -470,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [1791-find-center-of-star-graph](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/1791-find-center-of-star-graph) |
 | [3620-network-recovery-pathways](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
