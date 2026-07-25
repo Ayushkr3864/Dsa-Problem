@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/1814-count-nice-pairs-in-an-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Sliding Window
 |  |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2751-robot-collisions](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/3536-maximum-product-of-two-digits) |
 ## Simulation
 |  |
 | ------- |
