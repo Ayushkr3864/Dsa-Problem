@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1814-count-nice-pairs-in-an-array](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/2351-first-letter-to-appear-twice) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Recursion
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2751-robot-collisions](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/2751-robot-collisions) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3620-network-recovery-pathways](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/3620-network-recovery-pathways) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Sorting
