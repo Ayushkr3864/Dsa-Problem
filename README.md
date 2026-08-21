@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2185-counting-words-with-a-given-prefix](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2751-robot-collisions](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/2751-robot-collisions) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3620-network-recovery-pathways](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/3620-network-recovery-pathways) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2390-removing-stars-from-a-string](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/2390-removing-stars-from-a-string) |
 | [2751-robot-collisions](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/2751-robot-collisions) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/3838-weighted-word-mapping) |
