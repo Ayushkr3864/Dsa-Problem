@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/1814-count-nice-pairs-in-an-array) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/2351-first-letter-to-appear-twice) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1668-maximum-repeating-substring](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/1668-maximum-repeating-substring) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/2351-first-letter-to-appear-twice) |
 | [2390-removing-stars-from-a-string](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/2390-removing-stars-from-a-string) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/1189-maximum-number-of-balloons) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/1814-count-nice-pairs-in-an-array) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/2351-first-letter-to-appear-twice) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ayushkr3864/Dsa-Problem/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Monotonic Stack
